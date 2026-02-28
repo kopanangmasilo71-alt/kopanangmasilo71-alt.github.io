@@ -1,71 +1,59 @@
-Morabaraba Collection Privacy Policy
+Privacy Policy
+This privacy policy applies to the Morabaraba-Collection app (hereby referred to as "Application") for mobile devices that was created by MasiloDev (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
 
-Last updated: February 23, 2026
+Information Collection and Use
+The Application itself does not directly collect personally identifiable information. However, the Application uses Google AdMob, which may collect certain information automatically.
+This information is collected by AdMob to provide personalized ads, improve their services, and measure ad performance. The Service Provider does not access or control this data, but it is processed according to AdMob’s Privacy Policy.
+Your device identifiers (such as IP address)
+The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
+The usage information, such as which ads are displayed and when
+The operating system you use on your mobile device
 
-This Privacy Policy describes how information is handled when you use this application or website.
+The Application does not gather precise information about the location of your mobile device.
 
-1. Information We Collect
+The Application does not use Artificial Intelligence (AI) technologies to process your data or provide features.
 
-We do not directly collect any personally identifiable information from users.
+The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
 
-However, the application may use third-party services that may collect information used to identify you.
+For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
 
-2. Third-Party Services
+Third Party Access
+Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
 
-This app may use the following third-party services:
+Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
+AdMob
 
-Google AdMob
+The Service Provider may disclose User Provided and Automatically Collected Information:
+as required by law, such as to comply with a subpoena, or similar legal process;
+when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
+with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
 
-Google Play Services
+Opt-Out Rights
+You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
 
-Analytics tools (if applicable)
+Data Retention Policy
+The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at kopanangmasilo71@gmail.com and they will respond in a reasonable time.
 
-These services may collect information such as:
+Children
+The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
 
-Device information
+The Application does not address anyone under the age of 13. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (kopanangmasilo71@gmail.com) so that they will be able to take the necessary actions.
 
-Advertising ID
+GDPR (General Data Protection Regulation)
+Users in the European Economic Area (EEA) have rights regarding personal data collected by AdMob, including the right to access, correct, or request deletion of their data. For more information on how AdMob handles personal data, please visit AdMob GDPR Info. 
 
-Usage data
+Security
+The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
 
-The collection and use of information by these services are governed by their own privacy policies:
+Changes
+This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
-Google Privacy Policy:
-https://policies.google.com/privacy
+This privacy policy is effective as of 2026-02-28
 
-Google AdMob Privacy & Ads Policy:
-https://support.google.com/admob/answer/6128543
+Your Consent
+By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by us.
 
-Google Play Services:
-https://policies.google.com/privacy
+This Privacy Policy is designed to comply with applicable laws including the Children’s Online Privacy Protection Act (COPPA) and other applicable data protection laws.
 
-3. Cookies
-
-This app/website does not use cookies directly.
-
-However, third-party services may use cookies or similar technologies to deliver and improve their services.
-
-4. Children’s Information
-
-This application is not specifically directed at children under the age of 13.
-
-We do not knowingly collect personal identifiable information from children.
-If you believe that a child has provided personal information, please contact us so we can take appropriate action.
-
-5. Data Security
-
-We value your trust and strive to use acceptable means of protecting your information.
-
-However, please remember that no method of transmission over the internet or electronic storage is 100% secure.
-
-6. Changes to This Privacy Policy
-
-This Privacy Policy may be updated from time to time.
-
-Any changes will be posted on this page. You are advised to review this Privacy Policy periodically for any updates.
-
-7. Contact Us
-
-If you have any questions or suggestions about this Privacy Policy, please contact us at:
-
-Email: kopanangmasilo71@gmail.com
+Contact Us
+If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at kopanangmasilo71@gmail.com.
