@@ -92,3 +92,5 @@ Contact Us
 
 
 If you have any questions regarding privacy while using the Application, please contact the Service Provider via email at kopanangmasilo71@gmail.com.
+
+This Privacy Policy is designed to comply with applicable privacy laws, including COPPA, GDPR, and Google Play Developer Program requirements.
